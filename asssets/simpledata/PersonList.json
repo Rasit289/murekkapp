@@ -1,0 +1,23 @@
+{
+  "success":true, 
+  "result":[
+      {
+        "id":1,
+        "nameSurname":"abc",
+        "phone":"0543212345", 
+        "email":"asda", 
+        "duty":"işçi", 
+        "tcno":"12132423423"
+      },
+       {
+        "id":2,
+        "nameSurname":"abc",
+        "phone":"0543212345", 
+        "email":"asda", 
+        "duty":"işçi", 
+        "tcno":"12132423423"
+      }
+      
+    ]
+    
+  }

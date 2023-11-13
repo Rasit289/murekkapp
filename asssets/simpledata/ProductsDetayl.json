@@ -1,0 +1,22 @@
+{
+  "success":true,
+  "result":
+    {
+      "invoiceCount":10,
+      "totalSalary":45000.34,
+      "invoiceList":[
+        {  
+          "invoiceId":1,
+          "customerName":"AB LTD.ŞTİ",
+          "documentCode":"432423",
+          "totalInvoice":1000.5        
+        },
+       {  
+          "invoiceId":1,
+          "customerName":"CDE A.Ş.",
+          "documentCode":"A12422",
+          "totalInvoice":1000.5        
+        }
+      ]
+    } 
+}

@@ -1,0 +1,13 @@
+{
+  "success": true,
+  "result": [
+    {
+      "id": 1,
+      "ticketName": "abc"
+    },
+    {
+      "id": 2,
+      "ticketName": "cde"
+    }
+  ]
+}

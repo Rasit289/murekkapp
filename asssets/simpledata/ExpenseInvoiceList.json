@@ -1,0 +1,29 @@
+{
+  "success":true,
+  "result":
+    {
+      "totalInvoice":65456.78,
+      "totalInMount":15000.00,
+      "expenseInvoices":[
+        {
+          "InvoiceId":1,
+          "docType":"Fatura",
+          "docNo":"GIB2023000000006",
+          "information":"Tutar Teknoloji - Rıdvan TUTAR",
+          "dateOfIssuance":"10.10.2023",
+          "parentStatus":"Nakit",
+          "docAmount": 20000.00,
+          "remainingAmount":10000.00,
+          "totalPayment":10000.00,
+          "paymentHistory":[
+            {
+              "paymentDate":"12.12.2023",
+              "paymentAmount":10000.00,
+              "paymentCase":"Ana Kasa",
+              "paymentType":"Nakit"
+            }
+          ]
+        }
+      ]
+    }   
+}

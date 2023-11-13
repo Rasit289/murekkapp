@@ -1,0 +1,29 @@
+{
+  "success":true,
+  "result":[
+    {
+      "productId":1,
+      "productName":"Kart Tasarımı",
+      "productCode":"AKL1",
+      "productAmount":10,
+      "productUnitId":3,
+      "buyingPrice": 2000.00,
+      "taxStatus":false,
+      "taxCode": "%18",
+      "inventory": false,
+      "stockTracking":false
+    },
+    {
+      "productId":2,
+      "productName":"Kollezym Kurumsal",
+      "productCode":"KLZ1",
+      "productAmount":10,
+      "productUnitId":2,
+      "buyingPrice": 2000.00,
+      "taxStatus":false,
+      "taxCode": "%18",
+      "inventory": false,
+      "stockTracking":false
+    }     
+   ]  
+}

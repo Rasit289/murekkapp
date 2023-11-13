@@ -1,0 +1,23 @@
+{
+  "success":true,
+  "result":
+    {
+      "totalCase":5000.23,
+      "totalBank":45000.34,
+      "cacheTotal":10000.4,
+      "accountList":[
+        {  
+          "accountId":1,
+          "accountName":"İŞ BANKASI ",
+          "foreignCurrency":"TL",
+          "balance":4000.5        
+        },
+       {  
+          "accountId":2,
+          "accountName":"OFİS KASA",
+          "foreignCurrency":"TL",
+          "balance":1000.5         
+        }
+      ]
+    } 
+}

@@ -1,0 +1,36 @@
+{
+  "success":true,
+  "result":
+    [
+      {
+        "invoiceId":1,
+        "processType":"faturatahsilatı",
+        "amount":400000.00,
+        "date":"04.04.2023",
+        "info": "GIB2023000000006",
+        "docs":
+          [
+            {
+              "docDate":"04.05.2023",
+              "docName":"Antag_5._TaksitMart.pdf",
+              "downloadLink":"https://muhasebe.ae.tc/Belgeler/GIB2023000000006/04-05-2023-15-34-22.pdf"
+            }
+          ]
+      },
+    {
+        "invoiceId":2,
+        "processType":"faturatahsilatı",
+        "amount":300000.00,
+        "date":"06.04.2023",
+        "info": "GIB2023000000007",
+        "docs":
+          [
+            {
+              "docDate":"04.05.2023",
+              "docName":"Antag_6._TaksitMart.pdf",
+              "downloadLink":"https://muhasebe.ae.tc/Belgeler/GIB2023000000006/04-05-2023-15-34-22.pdf"
+            }
+          ]
+      } 
+    ]
+}

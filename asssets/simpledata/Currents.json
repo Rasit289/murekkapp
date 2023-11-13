@@ -1,0 +1,31 @@
+{
+  "success":true,
+  "result":
+      {
+        "collectionInMonth":50000.00,
+        "currentList":[
+          {
+            "currentId":1,
+            "currentName":"ANKA SAĞIM SİSTEMLERİ LTD.ŞTİ.",
+            "currentEmail":"info@antag.com.tr",
+            "currenctTaxId":12,
+            "currenctTaxNo": "GIB2023000000006",
+            "currentPhone":"053373731234",
+            "cityId": 5,
+            "countryId": 2,
+            "currentBalanceDue":27500.43
+          },
+          {
+            "currentId":2,
+            "currentName":"KONYA GIDA VE TARIMÜNİVERSİTESİ",
+            "currentEmail":"info@gidatarim.edu.tr",
+            "currenctTaxId":12,
+            "currenctTaxNo": "GIB2023000000006",
+            "currentPhone":"90 (332) 223-54-88",
+            "cityId": 5,
+            "countryId": 2,
+            "currentBalanceDue":0.00
+          }
+        ]
+      }   
+}

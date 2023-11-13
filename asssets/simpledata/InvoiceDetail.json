@@ -1,0 +1,53 @@
+{
+  "success":true,
+  "result":
+    {
+      "invoiceId":1,
+      "currentName":"Tutar Teknoloji",
+      "invoiceDate":"12.12.2023",
+      "invoiceNo":"AVD0002302302",
+      "invoiceContent":"Lorem ipsum falan filan",
+      "invoiceTicket":[
+        {
+          "ticketId":1,
+          "ticketName":"Fatura"
+        }
+      ],
+      "products":[
+        {
+          "productId":1,
+          "productName":"Dijital Kart",
+          "stockCount":10,
+          "amound":5,
+          "productTicket":[
+            {
+              "ticketId":5,
+              "ticketName":"Ar-Ge Ürünü" 
+            }
+          ],
+          "unitPrice":400.00,
+          "taxRate":"%20",
+          "specialTaxRate":"%0",
+          "specialTaxSum":5,
+          "specialDampTaxRate":"%0",
+          "specialDampTax":0,
+          "dampRate":"%5",
+          "damp":100.00,
+          "productSum":1900.00         
+        }
+      ],
+      "subToptal":19000.00,
+      "invoiceDampRate":"%0",
+      "invoiceDamp":0,
+      "invoiceTax":380,
+      "invoiceTevkifatId":0,
+      "invoceTotalSum":2280.00,
+      "invoceDocs":[
+        {
+          "documentId":1,
+          "DocumentName":"E-arşiv fatura belgesi"
+        }
+      ],
+      "invoiceSubContent":""
+    }   
+}

@@ -1,0 +1,21 @@
+{
+  "success":true,
+  "result":[
+    {
+      "productId":1,
+      "productName":"Bilgisayar",
+      "productCode":"Asus",
+      "unitAndQuantity":"5 Adet",
+      "taxAmount":18.5,
+      "salary":30000.2
+    },
+    {
+      "productId":2,
+      "productName":"Bilgisayar",
+      "productCode":"Asus",
+      "unitAndQuantity":"5 Adet",
+      "taxAmount":18.5,
+      "salary":30000.2
+    }
+  ]
+}

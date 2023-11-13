@@ -1,0 +1,27 @@
+{
+  "success":true,
+  "result":{
+    "allAssets":123.23,
+    "moneyCase":2343.32,
+    "moneyBank":1234.43,
+    "willCollection":43223.23, 
+    "willPayment":2323.32,
+    "moneyGraphic":[
+      {
+        "date":"01.01.2023",
+        "inCome":12.2,
+        "expense":12.2
+      },
+       {
+        "date":"01.02.2023",
+        "inCome":12.2,
+        "expense":12.2
+      }
+      
+    ]
+    
+    
+    
+    
+  }
+}
